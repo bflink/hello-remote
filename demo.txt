@@ -1,1 +1,2 @@
 This si ssome text.
+Some text added from the local copy of demo.txt
